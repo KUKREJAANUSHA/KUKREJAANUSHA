@@ -1,77 +1,60 @@
-#  Hey there, I'm Anusha Kukreja!
-
- **Data Engineer | Data Enthusiast | ML Explorer**
+<h1 align="center">Hey there, Data Enthusiast! 👀</h1>
 
 ---
 
-## 💡 About Me
+## 🧑‍💻 Who Am I?
 
-I'm a graduate student in Computer Science at **San Jose State University** (Class of 2025), passionate about turning data into actionable insights. With hands-on experience in **data engineering, analytics, and machine learning**, I thrive on building robust pipelines, solving real-world problems, and optimizing workflows.
+I'm **Anusha Kukreja**, a graduate student in Computer Science at **San Jose State University**.  
+I’m passionate about building scalable data pipelines, solving real-world problems with ML, and telling stories through data.
 
-Currently exploring scalable data solutions using **Spark, Airflow, and AWS**.  
-📍 Based in San Jose, CA | Always open to exciting data opportunities!
-
- **Let's connect on [LinkedIn](https://www.linkedin.com/in/anusha-kukreja2006/)**  
- **[Resume available upon request](mailto:anusha.kukreja23@gmail.com)**
-
----
-
-##  What I Bring To The Table
-
-| Programming | Data & Tools | Cloud & Infra | ML & Viz |
-|-------------|--------------|----------------|-----------|
-| `Python`, `SQL`, `SparkSQL`, `Java`, `HiveQL` | `PostgreSQL`, `Redshift`, `Spark`, `Hive`, `Power BI`, `Tableau`, `Airflow` | `AWS (S3, Lambda, EMR, Glue)`, `Azure Data Factory`, `Docker`, `Terraform`, `Kubernetes` | `Random Forest`, `SVM`, `SHAP`, `LIME`, `Fourier`, `Hyperparameter Tuning` |
+🌱 Currently exploring **Spark**, **Airflow**, and **Cloud Data Engineering**.  
+💬 Ask me about **Data Engineering**, **Machine Learning**, or **Cloud Data Pipelines**.  
+📫 [LinkedIn](https://www.linkedin.com/in/anusha-kukreja2006/) • [Email Me](mailto:anusha.kukreja23@gmail.com)
 
 ---
 
-## My Focus Areas
+## ⚒️ What I Bring To The Table
 
-- Real-time ETL pipelines with ADF, Glue, and Spark  
-- Data modeling and data warehousing for analytics at scale  
-- Cloud-native data architecture on **AWS & Azure**  
-- Explainable AI using SHAP & LIME  
-- Feature engineering for time-series and HAR datasets  
-
----
-
-##  Featured Projects
-
-###  Credit Risk Management  
-Built an end-to-end ETL + ML pipeline on Azure for credit scoring.  
- Random Forest + SVM |  SHAP + LIME | Tableau Dashboards  
-*Reduced false positives by 25%.*
-
-###  Human Activity Recognition (HAR)  
-Developed deep learning models for classifying simple vs complex activities using Fourier transforms and hyperparameter tuning.  
-*Boosted classification accuracy by 15%.*
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+</p>
 
 ---
 
-## Achievements
+## 💡 What's My Motivation?
 
-- **CIO Purpose Award** – GE Gas Power (Q3 2021)  
-- **Technical Wizard Award** – “Deliver with Focus” Initiative  
-- **Certifications**: SAFe Agilist, Coursera ML, Server-Side Dev with NodeJS & MongoDB
-
----
-
-##  Education
-
-**San Jose State University**  
-*Master of Science, Computer Science* (Aug 2023 – May 2025)  
-GPA: 3.46/4.00
-
-**Vellore Institute of Technology**  
-*Bachelor of Science, Computer Science* (Jul 2017 – Jul 2021)  
-GPA: 3.60/4.00
+My passion lies in making raw data useful — through clean pipelines, insightful dashboards, and smart models.  
+I love working on **predictive modeling**, **real-time systems**, and **data governance** to help organizations make data-driven decisions.
 
 ---
 
-##  Contact Me
+## 📚 What I’ve Studied
 
- **Email:** [anusha.kukreja23@gmail.com](mailto:anusha.kukreja23@gmail.com)  
- **LinkedIn:** [linkedin.com/in/anusha-kukreja2006](https://www.linkedin.com/in/anusha-kukreja2006/)  
- **GitHub:** [github.com/KUKREJAANUSHA](https://github.com/KUKREJAANUSHA)
+- 🎓 **M.S. Computer Science** — *San Jose State University* (May 2025)  
+- 🎓 **B.S. Computer Science** — *Vellore Institute of Technology* (2021)
+
+---
+
+## 🚀 Featured Projects
+
+- **Credit Risk Management** — Built a full ETL + ML pipeline using ADF and Azure.  
+- **Human Activity Recognition** — Deep learning on sensor data with Fourier features.  
+- **Real-time Dashboards** — Tableau + SQL pipelines that reduced duplication by 30%.
+
+---
+
+## 🏆 Awards & Certifications
+
+- 🏅 CIO Purpose Award – GE Gas Power (Q3 2021)  
+- 🛠️ SAFe Agilist | Coursera ML | NodeJS & MongoDB (Coursera)
 
 ---
 
