@@ -1,61 +1,71 @@
-<h1 align="center">Hey there, Data Enthusiast! 👀</h1>
+<h1 align="center">Welcome to my GitHub</h1>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## About Me
 
-I'm **Anusha Kukreja**, a graduate student in Computer Science at **San Jose State University**.  
-I’m passionate about building scalable data pipelines, solving real-world problems with ML, and telling stories through data.
+I'm Anusha Kukreja, a Computer Science graduate student at San Jose State University with hands-on experience in data engineering, analytics, and machine learning. I enjoy building scalable data pipelines, designing efficient data architectures, and transforming raw data into actionable insights.
 
-🌱 Currently exploring **Spark**, **Airflow**, and **Cloud Data Engineering**.  
-💬 Ask me about **Data Engineering**, **Machine Learning**, or **Cloud Data Pipelines**.  
-📫 [LinkedIn](https://www.linkedin.com/in/anusha-kukreja2006/) • [Email Me](mailto:anusha.kukreja23@gmail.com)
+Currently focused on cloud-based data engineering tools, distributed systems, and end-to-end machine learning workflows.
 
 ---
 
-## ⚒️ What I Bring To The Table
+## Skills & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
-</p>
+### Languages
+- Python, SQL, Java, HiveQL, SparkSQL, Bash, DAX, Power Query
 
----
+### Data Engineering & ETL
+- Apache Spark, Apache Airflow, Kafka, Hive, Talend, AWS Glue, Azure Data Factory
 
-## 💡 What's My Motivation?
+### Databases & Warehousing
+- PostgreSQL, Redshift, MySQL, SQL Server, Snowflake
 
-My passion lies in making raw data useful — through clean pipelines, insightful dashboards, and smart models.  
-I love working on **predictive modeling**, **real-time systems**, and **data governance** to help organizations make data-driven decisions.
+### Cloud Platforms
+- AWS (S3, Lambda, EC2, EMR, IAM), Microsoft Azure, Google Cloud Platform
 
----
+### DevOps & Infra
+- Docker, CI/CD, GitHub Actions, Terraform, Kubernetes
 
-## 📚 What I’ve Studied
+### Business Intelligence & Visualization
+- Tableau, Power BI, QuickSight
 
-- 🎓 **M.S. Computer Science** — *San Jose State University* (May 2025)  
-- 🎓 **B.S. Computer Science** — *Vellore Institute of Technology* (2021)
+### Machine Learning & Analysis
+- Scikit-learn, TensorFlow, SHAP, LIME, Feature Engineering, Model Explainability
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-- **Credit Risk Management** — Built a full ETL + ML pipeline using ADF and Azure.  
-- **Human Activity Recognition** — Deep learning on sensor data with Fourier features.  
-- **Real-time Dashboards** — Tableau + SQL pipelines that reduced duplication by 30%.
+**Credit Risk Management**  
+Built an end-to-end pipeline for processing and modeling credit risk using Azure Data Factory, Spark, and ML models with interpretability via SHAP and LIME.
 
----
+**Human Activity Recognition**  
+Applied CNN and deep learning models to classify complex and simple activities using sensor data. Feature extraction included time-domain and frequency-domain methods (e.g., Fourier transforms).
 
-## 🏆 Awards & Certifications
-
-- 🏅 CIO Purpose Award – GE Gas Power (Q3 2021)  
-- 🛠️ SAFe Agilist | Coursera ML | NodeJS & MongoDB (Coursera)
+**Security & Compliance Dashboards**  
+Developed real-time dashboards using Power BI and SQL-based pipelines to monitor data retention and access vulnerabilities, improving security and compliance.
 
 ---
 
-*“Turning raw data into smart decisions — one pipeline at a time.”*
+## Education
+
+**Master of Science, Computer Science**  
+San Jose State University  
+Aug 2023 – May 2025 | GPA: 3.46/4.00
+
+**Bachelor of Science, Computer Science**  
+Vellore Institute of Technology  
+Jul 2017 – Jul 2021 | GPA: 3.60/4.00
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/anusha-kukreja2006](https://www.linkedin.com/in/anusha-kukreja2006)
+- GitHub: [github.com/KUKREJAANUSHA](https://github.com/KUKREJAANUSHA)
+- Email: anusha.kukreja23@gmail.com
+
+---
+
+Turning data into insight, and insight into impact.
